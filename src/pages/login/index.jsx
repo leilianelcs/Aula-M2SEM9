@@ -11,7 +11,7 @@ export function LoginPage() {
                         src="https://lab365-admin.hml.sesisenai.org.br/javax.faces.resource/img/logo-lab.png" 
                         alt="lab 365"  
                         height="57" 
-                    />
+                    /> 
                     <h1 className="h3 mb-3 fw-normal">Efetuar login</h1>
 
                     <div className="form-floating">
